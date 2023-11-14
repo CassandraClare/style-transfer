@@ -9,12 +9,15 @@ I have used COCO dataset (just 5K images subset) to train the model. The dataset
 
 ## Results
 CONTENT IMAGE
+
 ![image](https://github.com/CassandraClare/style-transfer/assets/84125572/2f850fa3-a0af-41a8-b429-b44a4aa727ea)
 
 STYLE IMAGE
+
 ![image](https://github.com/CassandraClare/style-transfer/assets/84125572/18d32adf-4878-463d-8619-e7502f156e3b)
 
 COMBINED IMAGE
+
 ![image](https://github.com/CassandraClare/style-transfer/assets/84125572/7d853cc5-3843-4919-a16e-ff8d815346a4)
 
 Other results which compare the result of changes in style and content weights on the combined image are shown in the pdf file.
